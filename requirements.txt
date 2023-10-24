@@ -1,7 +1,4 @@
-numpy
 pandas
-random
-math
-matplotlib
-scipy
+numpy
+scikit-learn
 pyspark
