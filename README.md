@@ -1,6 +1,6 @@
 # AdversarialModels
 
-# AdversarialModel: A Python Class for Detecting data drift & Feature Selection
+# AdversarialModel: Python Class for Detecting Data Drift and Performing Feature Selection
 
 ## Introduction
 
