@@ -32,7 +32,7 @@ adversarial_model.fit(X_train, y_train)
 
 # Transform the test data
 X_test_transformed = adversarial_model.transform(X_test)
-
+``` 
 ## Conclusion
 
 AdversarialModel is a useful tool for detecting and handling concept drift. It is easy to use and can be integrated into existing machine learning pipelines.
